@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](/LICENSE).
 
 ---
 
-### Designed and developed with ❤️ by [Supriya Kumari](www.linkedin.com/in/supriya-mishra-07106521b).
+### Designed and developed with ❤️ by [Supriya Kumari] 
